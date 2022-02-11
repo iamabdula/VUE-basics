@@ -1,3 +1,4 @@
+
 # vue-project-3
 
 ## Project setup
@@ -22,3 +23,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Reference was taken from Net Ninga Vue 3 Course.
